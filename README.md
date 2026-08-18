@@ -24,4 +24,4 @@ jq '.spriteVersionNumber' ~/.codex/pets/niu-lai/pet.json
 
 输出应为 `2`。精灵图尺寸为 `1536x2288`，单帧尺寸为 `192x208`。
 
-`qa/` 保存最终校验结果，`assets/` 保存两行视线源图和四方向锚点。
+`assets/` 保存两行视线源图和四方向锚点。
